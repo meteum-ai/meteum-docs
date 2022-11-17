@@ -1,0 +1,32 @@
+title: Meteum API
+items:
+  - name: Overview
+    href: index.md
+  - name: Getting started
+    href: pages/how_to.md
+  - name: Authorization
+    href: pages/auth.md
+  - name: Geography
+    href: pages/geography.md
+  - name: Available data
+    href: pages/weather_data.md
+    expanded: true
+    items:
+      - name: Weather for now
+        href: pages/weather_data/fact.md
+      - name: Weather forecast
+        href: pages/weather_data/forecast.md
+      - name: Climate data
+        href: pages/weather_data/climate.md
+      - name: Weather station data
+        href: pages/weather_data/stations.md
+      - name: Full GraphQL specification
+        href: pages/spectaql.md
+  - name: Plans
+    href: pages/plans.md
+  - name: Privacy Policy
+    href: pages/privacy.md
+  - name: Terms of Use
+    href: pages/tos.md
+  - name: Service agreement
+    href: pages/service_agreement.md
